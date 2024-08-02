@@ -1,6 +1,6 @@
 # 🌟 Welcome to GrokCV!
 
-GrokCV is a dynamic research subgroup dedicated to pushing the boundaries of computer vision and remote sensing technologies. Led by [Dr. Yimian Dai (戴一冕)](https://yimian.grokcv.ai/) from Nanjing University of Science and Technology (NJUST), our team is guided by the expertise of [Prof. Jian Yang (杨健)](https://scholar.google.com/citations?user=6CIDtZQAAAAJ) from NJUST and the invaluable insights of [Prof. Xiang Li (李翔)](https://implus.github.io/) from Nankai University.
+GrokCV is a research group dedicated to pushing the boundaries of computer vision and remote sensing technologies, led by [Dr. Yimian Dai (戴一冕)](https://yimian.grokcv.ai/) from Nanjing University of Science and Technology (NJUST).
 
 ## 🎯 Our Mission
 
@@ -24,19 +24,6 @@ This repository is your gateway to GrokCV's:
 - 🎥 Educational Videos and Tutorials
 
 We believe in the power of open-source collaboration and knowledge sharing. That's why we make our resources accessible to the global research community.
-
-## 🚀 Join the GrokCV
-
-Are you a passionate researcher or student looking for an exciting opportunity to work on cutting-edge projects in computer vision and remote sensing? GrokCV is currently hiring interns!
-
-If you are in your gap year or have your supervisor's approval, joining GrokCV will offer you:
-
-- 💰 Competitive compensation package
-- 📈 Opportunities to publish high-impact research papers
-- 🎓 Mentorship from experienced researchers and industry experts
-- 🌐 Exposure to a global network of collaborators and partners
-
-Don't miss this chance to accelerate your career growth and make a real difference in the field. Send your resume and a brief introduction to <grokcv@gmail.com> with the subject line "GrokCV Internship Application". We look forward to welcoming you to our team!
 
 ## 📬 Get in Touch
 
