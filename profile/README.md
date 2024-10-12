@@ -2,6 +2,13 @@
 
 GrokCV is a research group dedicated to pushing the boundaries of computer vision and remote sensing technologies, led by [Dr. Yimian Dai (戴一冕)](https://yimian.grokcv.ai/) from Nanjing University of Science and Technology (NJUST).
 
+<p align="left"> 
+  <img src="https://img.shields.io/github/followers/GrokCV?label=Followers" alt="github follow" />
+  <img src="https://komarev.com/ghpvc/?username=GrokCV" alt="profile views" /> 
+</p>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=GrokCV&show_icons=true&include_all_commits=true&count_private=true" alt="chongruo" /> </p>
+
 ## 🎯 Our Mission
 
 At GrokCV, we are committed to developing cutting-edge algorithms and solutions for:
