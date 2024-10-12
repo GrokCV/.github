@@ -7,8 +7,6 @@ GrokCV is a research group dedicated to pushing the boundaries of computer visio
   <img src="https://komarev.com/ghpvc/?username=GrokCV" alt="profile views" /> 
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GrokCV&show_icons=true&theme=radical)
-
 ## 🎯 Our Mission
 
 At GrokCV, we are committed to developing cutting-edge algorithms and solutions for:
