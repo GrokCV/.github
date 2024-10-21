@@ -11,36 +11,19 @@ GrokCV is a research group dedicated to pushing the boundaries of computer visio
 
 At GrokCV, we are committed to developing cutting-edge algorithms and solutions for:
 
-- 📡 Remote Sensing Object Detection
-- 🌡️ Climatic Monitoring
-- 📷 Computational Imaging
+- 📡 Object Detection
+- 📷 Image Restoration
 
 Our mission is to tackle real-world challenges in these fields and drive innovation that makes a lasting impact.
-
-## 🌈 What You'll Find Here
-
-This repository is your gateway to GrokCV's:
-
-- 💻 Official Codebases
-- 📊 Curated Datasets
-- 🎨 Insightful Presentations
-- 📚 Comprehensive Learning Materials
-- 📝 Research Papers and Publications
-- 🎥 Educational Videos and Tutorials
-
-We believe in the power of open-source collaboration and knowledge sharing. That's why we make our resources accessible to the global research community.
 
 ## 📬 Get in Touch
 
 Have questions, suggestions, or collaboration ideas? We'd love to hear from you! Feel free to reach out to us through any of the following channels:
 
-- 📧 Email: <grokcv@gmail.com>
+- 📧 Email: <yimian.dai@gmail.com>
 - 🌐 Website: <https://grokcv.ai/> (Under Construction)
-- 🐦 Twitter: [@GrokCV](https://twitter.com/GrokCV)
 - 🇨🇳 知乎: [GrokCV](https://www.zhihu.com/people/grokcv)
 - 📺 Bilibili: [GrokCV](https://space.bilibili.com/833564)
-
-No matter where you are in the world, we're just a message away. Let's connect and explore how we can work together to push the boundaries of computer vision and remote sensing!
 
 <!--
 **GrokCV is a research subgroup led by  from Nanjing University of Science and Technology (NJUST), under the guidance of  from NJUST and the vice-advisement of  from Nankai University.**
